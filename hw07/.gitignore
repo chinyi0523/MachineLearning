@@ -1,0 +1,6 @@
+ignore/
+food-11/
+teacher_resnet18.bin
+student_model.bin
+student_model_con.bin
+.DS_Store

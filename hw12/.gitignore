@@ -1,0 +1,5 @@
+.DS_Store
+*.csv
+ignore/
+real_or_drawing/
+report.py

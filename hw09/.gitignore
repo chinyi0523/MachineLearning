@@ -1,0 +1,9 @@
+.DS_Store
+ignore/
+trainX_new.npy
+valX.npy
+valY.npy
+prediction_82.csv
+prediction_invert.csv
+*.csv
+
