@@ -1,0 +1,6 @@
+.DS_Store
+training_label.txt
+training_nolabel.txt
+testing_data.txt
+__pycache__/
+ignore/
